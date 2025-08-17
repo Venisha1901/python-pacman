@@ -55,9 +55,3 @@ python pacman.py
 - More strategic power pellet usage.
 - Procedural maze generation.
 
-Reinforcement learning for adaptive gameplay.
-git clone https://github.com/<your-username>/python-pacman.git
-cd python-pacman
-python -m venv .venv
-.venv\Scripts\activate    # On Windows
-pip install -r requirements.txt
